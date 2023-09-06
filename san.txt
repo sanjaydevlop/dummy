@@ -3,6 +3,16 @@ Surya
 Lalith
 
 Chandra
-
+zzzzzz
 Wall
 Dravid
+
+1.Create a branch
+git checkout -b branchname
+2.add or modify any file
+3.git add . or git add (path of the files)
+4.Commit git commit -m "added new files"
+5.Checkout to the main branch git checkout main
+6. Merge the branch git merge branchname
+7.git commit -m "branchcommit"
+8.git origin push main
